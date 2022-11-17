@@ -1,1 +1,1 @@
-Local Docker Wordpress development environment.
+Local Docker Wordpress development environment using official Wordpress Docker image.

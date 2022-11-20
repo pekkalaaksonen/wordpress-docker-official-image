@@ -1,2 +1,4 @@
 wordpress
 .DS_Store
+nginx/certs/*
+!nginx/certs/README.md

@@ -1,0 +1,1 @@
+Put your self signed certificates here and add correct filenames to /nginx/default.conf file
